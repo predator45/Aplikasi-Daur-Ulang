@@ -1,0 +1,71 @@
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang..resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.HomeForm.resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.LoginForm.resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.PlasticRecyclingForm.resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi daur ulang.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi daur ulang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi daur ulang.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi daur ulang.AssemblyInfo.cs
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi daur ulang.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.ElectronicsRecyclingForm.resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.FabricRecyclingForm.resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.GlassRecyclingForm.resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.OilRecyclingForm.resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.PaperRecyclingForm.resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.RegisterForm.resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.AboutForm.resources
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\bin\Debug\net8.0-windows\Aplikasi daur ulang.exe
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\bin\Debug\net8.0-windows\Aplikasi daur ulang.deps.json
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\bin\Debug\net8.0-windows\Aplikasi daur ulang.runtimeconfig.json
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\bin\Debug\net8.0-windows\Aplikasi daur ulang.dll
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\bin\Debug\net8.0-windows\Aplikasi daur ulang.pdb
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.dll
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\refint\Aplikasi daur ulang.dll
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.pdb
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.genruntimeconfig.cache
+C:\Users\Asus\source\repos\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\ref\Aplikasi daur ulang.dll
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang..resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.AboutForm.resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.ElectronicsRecyclingForm.resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.FabricRecyclingForm.resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.GlassRecyclingForm.resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.HomeForm.resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.LoginForm.resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.OilRecyclingForm.resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.PaperRecyclingForm.resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.PlasticRecyclingForm.resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang.RegisterForm.resources
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.csproj.GenerateResource.cache
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.AssemblyInfoInputs.cache
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.AssemblyInfo.cs
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.csproj.CoreCompileInputs.cache
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.dll
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\refint\Aplikasi daur ulang.dll
+E:\Project Visual Studio 2022\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.pdb
+D:\aplikasi daur ulang\aplikasi daur ulang\bin\Debug\net8.0-windows\Aplikasi daur ulang.exe
+D:\aplikasi daur ulang\aplikasi daur ulang\bin\Debug\net8.0-windows\Aplikasi daur ulang.deps.json
+D:\aplikasi daur ulang\aplikasi daur ulang\bin\Debug\net8.0-windows\Aplikasi daur ulang.runtimeconfig.json
+D:\aplikasi daur ulang\aplikasi daur ulang\bin\Debug\net8.0-windows\Aplikasi daur ulang.dll
+D:\aplikasi daur ulang\aplikasi daur ulang\bin\Debug\net8.0-windows\Aplikasi daur ulang.pdb
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\aplikasi_daur_ulang..resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.AboutForm.resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.ElectronicsRecyclingForm.resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.FabricRecyclingForm.resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.GlassRecyclingForm.resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.HomeForm.resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.LoginForm.resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.OilRecyclingForm.resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.PaperRecyclingForm.resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.PlasticRecyclingForm.resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi_daur_ulang.RegisterForm.resources
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.csproj.GenerateResource.cache
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.GeneratedMSBuildEditorConfig.editorconfig
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.AssemblyInfoInputs.cache
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.AssemblyInfo.cs
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.csproj.CoreCompileInputs.cache
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.dll
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\refint\Aplikasi daur ulang.dll
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.pdb
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\Aplikasi daur ulang.genruntimeconfig.cache
+D:\aplikasi daur ulang\aplikasi daur ulang\obj\Debug\net8.0-windows\ref\Aplikasi daur ulang.dll
